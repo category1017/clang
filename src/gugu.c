@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//전처리 내장헤더파일<> 외장헤더파일은 <>없음
 
 void main(){
 	printf("C언어 구구단 프로그램입니다.\n");
